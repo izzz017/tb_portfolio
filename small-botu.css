@@ -1,0 +1,130 @@
+.title {
+    font-size: 2.8rem;
+    margin-bottom: 30px;
+  }
+  
+.title__sub{
+    font-size: 2.2rem;
+}
+
+header{
+    padding: 0 60px 0 60px;
+}
+
+.header__menu{
+    display: none;
+}
+  
+.top{
+    padding:60px;
+}
+
+.about,
+.career,
+.relief,
+.case,
+.table,
+.voice,
+.flow,
+.FAQ{
+  padding: 100px 70px 110px 70px;
+}
+
+.reason{
+  padding: 100px 70px 0 70px;
+}
+
+.reason__item{
+    padding-bottom: 110px;
+}
+
+.reason__item img{
+    width: 400px;
+    height: auto;
+}
+
+.reason__title > p{
+    font-size: 6rem;
+}
+
+/* .case__boxPeople{
+    width: 90%;
+}  
+ */
+.case__boxProfile img{
+    width: 100px;
+    height: auto;
+    /* padding: 20px; */
+  }
+  
+
+.case__box__comment{
+    width: 100%px;
+    height: 200px;
+}
+
+.case__box__comment::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 8%;
+    width: 0;
+    height: 0;
+    border: 22px solid transparent;
+    border-bottom-color: #fff;
+    border-top: 0;
+    border-right: 0;
+    margin-left: -9px;
+    margin-top: -18px;
+}
+
+
+.case__logo{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.case__logo img{
+    width: 130px;
+    height: auto;
+    padding: 10px;
+}
+
+.table__comparison img{
+    width: 90%;
+    height: auto;
+}
+  
+.cvArea__title{
+    font-size: 2.8rem;
+}
+
+
+.graph__group{
+    /* width: 600px; */
+    flex-wrap: wrap;
+}
+
+.graph__type{
+    padding: 40px 40px 55px 40px;
+    background-color: #F8F8F4;
+    border-radius: 30px;
+  }
+
+.graph__type img{
+    width: 200px;
+    height: auto;
+}
+
+.relief__box{
+    width: 500px;
+}
+
+
+.faq__list{
+    width: 100%;
+}
+
+.faq__trigger__inner{
+    font-size: 1.6rem;
+}

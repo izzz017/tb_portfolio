@@ -1,0 +1,87 @@
+.title {
+    font-size: 2.8rem;
+    margin-bottom: 30px;
+  }
+  
+.title__sub{
+    font-size: 2.2rem;
+}
+
+header{
+    padding: 0 50px 0 50px;
+}
+  
+.top{
+    padding: 50px;
+}
+
+.about,
+.career,
+.relief,
+.case,
+.table,
+.voice,
+.flow,
+.FAQ{
+  padding: 100px 50px 110px 50px;
+}
+
+.graph__group{
+    width: 90%;
+}
+
+.graph__type{
+    padding: 40px 40px 55px 40px;
+    background-color: #F8F8F4;
+    border-radius: 30px;
+  }
+
+.graph__type img{
+    width: 250px;
+    height: auto;
+}
+
+.relief__box{
+    width: 500px;
+}
+.reason{
+  padding-top: 100px;
+}
+
+.reason__item{
+    padding-bottom: 110px;
+}
+
+.reason__item img{
+    width: 400px;
+    height: auto;
+}
+
+.reason__title > p{
+    font-size: 6rem;
+}
+
+.case__logo{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.case__logo img{
+    width: 150px;
+    height: auto;
+    padding: 30px;
+}
+
+.table__comparison img{
+    width: 90%;
+    height: auto;
+}
+  
+.cvArea__title{
+    font-size: 2.8rem;
+}
+
+.flow__box{
+    width: ;
+}
+

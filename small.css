@@ -1,0 +1,146 @@
+section {
+    font-size: 1.4rem;
+  }
+  
+/* common */   
+.btn{
+    background-color: #FFD166;
+    color: #293D4C;
+    border-style: none;
+    border-radius: 50px;
+    font-size: 1.8rem;
+    font-weight: 600;
+    padding: 20px 80px 20px 80px;
+}
+
+.title {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+.title__sub{
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+}
+
+/* padiing */
+.about,
+.career,
+.relief,
+.case,
+.table,
+.voice,
+.flow,
+.FAQ{
+  padding: 80px 12px 80px 12px;
+}
+
+/* header */
+.header__logo{
+    width: 30vw;
+}
+
+header{
+    padding: 0 12px 0 12px;
+}
+
+.header__menu{
+    display: none;
+}
+  
+/* top */
+.top{
+    padding: 80 20 20 20;
+}
+.top__catch{
+    font-size: 4rem;
+    padding-top: 40vh;
+}
+
+
+/* career */
+
+.graph__type{
+    padding: 40px 40px 55px 40px;
+    background-color: #F8F8F4;
+    border-radius: 30px;
+  }
+
+.graph__type img{
+    width: 200px;
+    height: auto;
+}
+
+
+.graph__group{
+    justify-content: center;
+}
+
+/* reason */
+.reason{
+    padding: 80px 20px 40px 20px;
+}
+.reason__item{
+    padding-bottom: 60px;
+} 
+.reason__item img{
+    width: 280px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.reason__txtbox{
+    padding: 0;
+}
+  
+.reason__title > p{
+    line-height: 4rem;
+    font-size: 4rem;
+    padding: 0 10 5 0;
+}  
+
+/* relief */
+.relief__box{
+    width: 90%;
+    padding:30px;
+}
+
+/* green */
+.green{
+    padding: 60 0 60 0;
+}
+
+.green__txt{
+    color: #fff;
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+}
+  
+/* case */
+.case__box{
+    display: flex;
+    padding-bottom: 40px;
+}
+
+.case__boxPeople{
+    width: 310px;
+}
+  
+.case__boxProfile img{
+    width: 95px;
+}
+
+.case__logo{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.case__logo img{
+    width:  100px;
+    height: auto;
+    padding: 20px;
+}
+  
