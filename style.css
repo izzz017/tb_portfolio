@@ -434,7 +434,7 @@ section {
   background-color: #F8F8F4;
   width: 380px;
   height: auto;
-  border-radius: 30px;
+  border-radius: 30px;x
   text-align: center;
   padding: 100px 25px 45px 25px;
   margin: 0 8px 0 8px;
@@ -444,7 +444,7 @@ section {
 .flow__title{
   display: flex;
   align-self: center;
-  text-align: left;
+  text-align: left
 }
 
 
